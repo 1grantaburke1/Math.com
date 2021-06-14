@@ -64,7 +64,7 @@ public class Math extends Application
         FileInputStream storeStream = new FileInputStream("");
         FileInputStream toolsStream = new FileInputStream("");
         FileInputStream tutorStream = new FileInputStream("");
-        FileInputStream bannerStream = new FileInputStream("C:\\Users\\1gran\\Desktop\\AddTheseIcons\\mathbanner.png");
+        FileInputStream bannerStream = new FileInputStream("");
         
         // create the images
         Image algebraImage = new Image(algebraStream);
